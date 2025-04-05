@@ -1,4 +1,5 @@
-zadanie domowe git
+
+lastrzadanie domowe git
 git git
 repo reporo
 idk co dalej
