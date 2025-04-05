@@ -1,1 +1,3 @@
-Zmiana na gałęzi master
+
+Zmiana na gałęzi galaz-konfliktowa
+>>>>>>> galaz-konfliktowa
