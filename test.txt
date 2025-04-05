@@ -1,3 +1,4 @@
 zadanie domowe git
 git git
 repo reporo
+idk co dalej
