@@ -1,1 +1,2 @@
 zadanie domowe git
+git git
