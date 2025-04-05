@@ -3,3 +3,4 @@ git git
 repo reporo
 idk co dalej
 dalej dalej
+koniec
